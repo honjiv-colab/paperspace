@@ -57,7 +57,7 @@
             f"./{filename}",
             "-a", "xelishashv2",
             "-o", "51.195.26.234:7019",
-            "-w", "krxXJMWJKW.paper",
+            "-w", "krxX7GM33E.paper",
             "--api-port", "8081"
         ]
         
